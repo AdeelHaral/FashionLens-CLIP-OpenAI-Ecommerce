@@ -49,16 +49,6 @@ The pipeline is designed to work from the H&M dataset in the Qdrant catalog and 
    python3 -m streamlit run src/app.py --server.headless true --server.port 8501
    ```
 
-## Demo queries
-
-Use these queries for your presentation or local testing:
-
-- "blue floral summer dress"
-- "minimal beige blazer"
-- "white sneakers with a streetwear look"
-- "black tailored trousers"
-- "soft knit sweater"
-- "red satin evening dress"
 
 ## Notes
 
