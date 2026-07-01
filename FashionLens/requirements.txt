@@ -1,0 +1,16 @@
+
+
+datasets
+numpy
+pandas
+pyarrow
+requests
+torch
+torchvision
+torchaudio
+transformers
+pillow
+qdrant-client
+streamlit
+scikit-learn
+joblib
